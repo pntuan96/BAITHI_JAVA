@@ -1,5 +1,6 @@
 # BAITHI_JAVA
 Nói qua về app:
+
 1: Sử dụng 9 Button, 7 Label, 1 Progress Bar.
 2: Button ĐỘ KHÓ: Người chơi chọn 1 trong 3 độ khó nếu không chọn mạc định là 1-100.
 3: Button BẮT ĐẦU: Người chơi nhấn bắt đầu thì các Button(CỨU, HỒI SINH, ĐỘ KHÓ) sẽ setEnabled(false).
